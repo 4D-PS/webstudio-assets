@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Webform Editor",
+        "banner": "https://github.com/4D-PS/webstudio-assets/blob/main/images/webstudio.png?raw=true",
+        "url": "https://xd.adobe.com/view/3121ad8f-3581-4995-9530-5a4a147dc8ab-6472/",
+        "tags": ["webstudio", "webform", "editor"]
+    },
+    {
+        "name": "Roadmap",
+        "banner": "https://github.com/4D-PS/webstudio-assets/blob/main/images/roadmap.png?raw=true",
+        "url": "https://xd.adobe.com/view/58c5ca75-e3b7-4f71-bf2c-c6be6eaed39c-0d96/",
+        "tags": ["webstudio", "roadmap", "techdoc"]
+    },
+    {
+        "name": "Final Design",
+        "banner": "https://github.com/4D-PS/webstudio-assets/blob/main/images/finalDesign.png?raw=true",
+        "url": "https://xd.adobe.com/view/b22e00de-97bc-4896-9422-381e5c7e56ad-e77d/",
+        "tags": ["webstudio", "design"]
+    },
+    {
+        "name": "Model Editor",
+        "banner": "https://github.com/4D-PS/webstudio-assets/blob/main/images/webeditor.png?raw=true",
+        "url": "https://xd.adobe.com/view/a7a6c29b-e1cc-468c-a98a-5f4b765d0642-f2f5/",
+        "tags": ["webstudio", "model", "schema", "editor"]
+    },
+    {
+        "name": "Roles & Privileges",
+        "banner": "https://github.com/4D-PS/webstudio-assets/blob/main/images/roles.png?raw=true",
+        "url": "https://xd.adobe.com/view/f6eb7d32-ad04-4fd5-8a51-95eef19feb73-a3b8/",
+        "tags": ["webstudio", "roles", "privileges", "editor"]
+    },
+    {
+        "name": "Icons",
+        "banner": "https://github.com/4D-PS/webstudio-assets/blob/main/images/icons.png?raw=true",
+        "url": "https://www.figma.com/file/ynkNOVHkFo3F4CRAwjjfNW/studio-mood-board.?node-id=0%3A1",
+        "tags": ["ui", "ux", "icons", "figma", "design"]
+    }
+]
